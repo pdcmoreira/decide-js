@@ -1,5 +1,11 @@
 Simple decision table implementation in JavaScript/TypeScript.
 
+# Installation
+
+```
+npm install decide-js
+```
+
 # Usage
 
 ## Example: direct usage
