@@ -46,7 +46,7 @@ const movieGenreDecisions = defineDecisions(
 // Call when needed
 
 const interest = {
-  drama: false
+  drama: false,
   horror: true,
   comedy: true,
   sciFi: false
